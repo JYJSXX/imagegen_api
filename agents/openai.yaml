@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLSys Streaming ImageGen"
+  short_description: "Generate images through MLSys streaming API"
+  default_prompt: "Use $mlsys-stream-imagegen to generate an image through api.mlsys.online using BASE_URL from config.toml and the API key from auth.json."
